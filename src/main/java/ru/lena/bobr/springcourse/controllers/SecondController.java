@@ -8,5 +8,6 @@ public class SecondController {
 @GetMapping("/exit")
 public String exit (){
     return "second/exit";
+
 }
 }
